@@ -1,0 +1,38 @@
+* LEGEND
+** TODO :Assigned, But Not Completed
+** DONE :Completed
+** name :Not Assigned Yet.
+* JOURNEYS
+** BARAST-562 Internal User Testing - Barbri 
+*** DONE Joe
+*** DONE Chris
+*** Melchion
+** AIRAS001AV-1242 Internal User Testing - AirAsia 
+*** DONE Chris 
+*** DONE Melchion
+*** Erick
+** AIREU001DD-4059 Internal User Testing - Air Europa 
+*** DONE Chris
+*** DONE Melchion
+*** Erick
+** EBOAR001AV-133 Internal User Testing - eBOARDsolutions 
+*** DONE Erick
+*** DONE Melchion
+*** Joe
+** JCPEN001AS-2655 Internal User Testing - JCPenney 
+*** DONE Joe
+*** TODO Erick
+*** TODO Chris
+** COLUM001AV-76 Internal User Testing - Columbia 
+*** DONE Chris
+*** DONE Melchion
+*** TODO Joe
+* CLARIFICATIONS
+** DONE Air Europe
+** DONE Air Asia
+** TODO Barbri
+*** Clarification Call with Joe
+    SCHEDULED: <2018-08-08 Wed>
+** DONE eBoardSolutions
+** TODO JCPenny
+** TODO Columbia
